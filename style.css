@@ -1,0 +1,25 @@
+#border {
+    border: solid 10px blue;
+    background-color: black;
+    width: 400px;
+    height: 400px;
+    position: absolute;
+}
+
+#food {
+    position: absolute;
+    z-index: 2;
+    background-color: yellow;
+    width: 10px;
+    height: 10px;
+}
+
+.solidSnake1 {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    background-image: url("http://orig05.deviantart.net/dfe1/f/2013/211/1/a/1af37ab224885c75ceba584e1da15ee2-d6fwwem.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
